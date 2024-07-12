@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As a recent Math-CS graduate from UCSD, I am passionate about Full-Stack Web Development, Frontend, Design, and Creative Problem Solving. I am actively seeking a dynamic work environment where I can be challenged, learn from experienced mentors and peers, and explore exciting growth opportunities. 
+
