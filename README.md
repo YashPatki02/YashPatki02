@@ -1,4 +1,4 @@
-## 👋Hi there, I'm Yash Patki
+## 👋 Hi there, I'm Yash Patki
 
 <!--
 **YashPatki02/YashPatki02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
