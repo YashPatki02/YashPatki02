@@ -31,10 +31,10 @@ As a recent Math-CS graduate from UCSD, I am passionate about Full-Stack Web Dev
 
 ## 📈 My GitHub stats
 
-<div class="badges-githubstats">
+<!-- <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YashPatki02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="YashPatki02's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashPatki02&theme=tokyonight&hide_border=true" alt="YashPatki02's Streak" height="165">
 <!--     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatki02&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
   </p> -->
-</div>
+
